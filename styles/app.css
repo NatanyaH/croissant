@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(29, 28, 28);
+  text-align: center;
+  color: cornsilk;
+  max-width: 600px;
+  margin: auto;
+}
+img {
+  max-width: 500px;
+  border: 1px white solid;
+  padding: 10px;
+}
+h1 {
+  color: cyan;
+}
+a {
+  color: deepskyblue;
+}
